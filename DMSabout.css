@@ -1,4 +1,5 @@
 .body {
+    visibility: none;
     padding: 0;
     margin: 0;
     background: #f2f6e9;
